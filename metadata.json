@@ -1,0 +1,6 @@
+{
+  "name": "ColorOS Launcher",
+  "description": "Interactive ColorOS 15 desktop simulator with Fluid Cloud, Control Center, Smart Sidebar, and Find X Connect Hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
